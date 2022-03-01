@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - effector
+  - Wall
+  - SSGPickup
+  - Porta
+  - Enemy
+  - innocuo
+  - dbpProiettile
+  - ssgProiettile
+  - slash
+  - New tag
+  - gunBullet
+  - ShadowPlatform
+  - PistolShot
+  - PlatformId
+  - ApWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - Platform
+  - PlatformEffector
+  - PlatformDragon
+  - WallLayer
+  - BossWall
+  - Tutorial
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
